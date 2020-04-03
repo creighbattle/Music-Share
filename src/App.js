@@ -61,6 +61,8 @@ class App extends Component {
           Check Now Playing
         </button>
 
+        <h1>hey</h1>
+
       </div>
   ) ;
   }
