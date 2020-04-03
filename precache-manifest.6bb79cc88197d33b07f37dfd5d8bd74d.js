@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d9e168f285daa8f974c93c4365527d1",
+    "revision": "1a204f2a1a031227940961fcf47b7d47",
     "url": "/Music-Share/index.html"
   },
   {
-    "revision": "8b3541463169931a4796",
+    "revision": "1eb9f1bb4417ac736306",
     "url": "/Music-Share/static/css/main.20440482.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Music-Share/static/js/2.8030ed11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b3541463169931a4796",
-    "url": "/Music-Share/static/js/main.1bdd2bad.chunk.js"
+    "revision": "1eb9f1bb4417ac736306",
+    "url": "/Music-Share/static/js/main.448b6253.chunk.js"
   },
   {
     "revision": "c33a35608a3f194fe2c6",
